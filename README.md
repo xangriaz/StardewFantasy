@@ -1,5 +1,15 @@
 # Stardew Fantasy
 
+
+## Current Versions Includes:
+- Base Pack -
+- Harry Potter -
+- Final Fantasy -
+- Fairy Tales -
+
+
+------------------------------------
+
 Base Pack
 ---------
 **Used with all themes**
@@ -90,7 +100,7 @@ Final Fantasy
   - Mythril Ingot
   - Various types of Magicite
 
-Disney/fairy tales
+Fairy Tales
 -------------------
 #### Crops
 - Magic Beans
@@ -105,6 +115,7 @@ Disney/fairy tales
 #### Machines
 - Using cauldron (?):
   - Pixie Dust - created with fairy stone
+  (1 color type for each skill based on Tinker Bell wiki)
 
 #### Craftables
 - Bean Stalk (Decor)
