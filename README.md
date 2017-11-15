@@ -5,8 +5,11 @@ Base Pack
 **Used with all themes**
 
 #### Crops
+- Wormwood
+  - an extremely bitter herb, often used for brewing potions
 
 #### Recipes
+
 
 #### Machines
 - Cauldron
@@ -21,8 +24,6 @@ Harry Potter
   - ++ to fishing skill
   - tt: Tastes slimy and rubbery, like octopus tentacles.
 - Devil's Snare
-- Wormwood
-  - an extremely bitter herb, often used for brewing potions
 
 #### Recipes
 - Chocolate frog
@@ -67,6 +68,7 @@ Final Fantasy
 #### Crops
 - Echo Grass
   - Used to brew echo drops
+- Kupo Nuts
 
 #### Recipes
 
@@ -84,17 +86,30 @@ Final Fantasy
   - Remedy
   - Holy Water
 
-- "Fantasy" Furnace
+- Synthesizer
   - Mythril Ingot
   - Various types of Magicite
 
 Disney/fairy tales
 -------------------
 #### Crops
+- Magic Beans
+  - Said to grow into a tall stalk
 
 #### Recipes
 - DRINK ME
 - EAT ME
 - Mad Tea
+- Porridge that is "just right"
 
 #### Machines
+- Using cauldron (?):
+  - Pixie Dust - created with fairy stone
+
+#### Craftables
+- Bean Stalk (Decor)
+  - Uses magic beans
+
+##### Other Ideas
+- Narnia
+- Lovecraft
