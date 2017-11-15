@@ -64,8 +64,9 @@ Harry Potter
 
 - Philosopher's Furnace
   - Base: Creates Philosopher's Stone
+    - Ruby + Fire Quartz = Helvite
   - Golden Egg
-    - Egg + Philosopher's Stone
+    - Egg + Philosopher's Stone = Diamond
   - Gold (varying amounts)
     - Philosopher's Stone + any metal
 
@@ -79,6 +80,9 @@ Final Fantasy
 - Echo Grass
   - Used to brew echo drops
 - Kupo Nuts
+
+#### Trees
+- Cloud Mallow
 
 #### Recipes
 
@@ -124,3 +128,4 @@ Fairy Tales
 ##### Other Ideas
 - Narnia
 - Lovecraft
+- Dr. Seuss

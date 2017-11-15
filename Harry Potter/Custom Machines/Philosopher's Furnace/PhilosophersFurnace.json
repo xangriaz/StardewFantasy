@@ -1,0 +1,57 @@
+{
+   "Type": "CustomFarming.simpleMachine",
+   "Name": "Philosopher's Furnace",
+   "Description": "Able to create the powerful Philosopher's Stone, which can then be used to turn any mineral into gold.",
+   "Tilesheet" : "PhilosophersFurnace.png",
+   "TileIndex" : 0,
+   "WorkAnimationFrames" : 1,
+   "CategoryName" : "Crafting",
+   "Materials" : [537],
+   "RequieredStack" : 1,
+   "StarterMaterial" : 749,
+   "StarterMaterialStack" : 1,
+   "Crafting" : "74 1 82 5 337 2",
+   "Produce": {
+      "Name": "Philosopher's Stone",
+      "Description": "A stone with magical properties.",
+	  "usePrefix" : false,
+	  "useColor" : false,
+	  "ProduceID" : 64,
+	  "Tilesheet" : "PhilosophersStone.png",
+	  "TileIndex" : 0,
+	  "Stack" : 1,
+	  "ProductionTime" : 30
+   },
+   "SpecialProduce" : 	[
+	  {
+	  "Material" : -2,
+	  "Name": "Gold Bar",
+    "Description": "A bar of pure gold.",
+	  "usePrefix" : false,
+    "Tilesheet": "gold.png",
+	  "TileIndex" : 0,
+	  "ProduceID" : 336,
+    "Stack" : 3
+	  },
+	  {
+	  "Material" : -12,
+	  "Name": "Gold Bar",
+    "Description": "A bar of pure gold.",
+	  "usePrefix": false,
+    "Tilesheet": "gold.png",
+	  "TileIndex" : 0,
+	  "ProduceID" : 336,
+    "Stack" : 3
+  },
+  {
+    "Material" : -5,
+    "Name" : "Golden Egg",
+    "Description": "An egg made of pure gold.",
+    "usePrefix" : false,
+    "Tilesheet": "goldenegg.png",
+    "TileIndex" : 0,
+    "ProduceID" : 72,
+    "Stack": 1
+  }
+	  ]
+}
