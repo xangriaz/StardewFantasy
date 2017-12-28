@@ -1,0 +1,9 @@
+{
+  "Name": "Kupo Nut",
+  "Description": "A flavorful nut enjoyed by the mythical moogle race.",
+  "Category": "Fruit",
+  "Edibility": 20,
+  "Price": 150,
+  "IsColored": false,
+  "Recipe": null,
+}

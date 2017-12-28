@@ -36,7 +36,7 @@ Harry Potter
 - Devil's Snare
 
 #### Recipes
-- Chocolate frog
+- ~~Chocolate frog~~
   - made from chocolate & snails
     - tt: Did you really think this was made from frogs?
 - Butterbeer
@@ -79,7 +79,7 @@ Final Fantasy
 #### Crops
 - Echo Grass
   - Used to brew echo drops
-- Kupo Nuts
+- ~~Kupo Nuts~~
 
 #### Trees
 - Cloud Mallow
