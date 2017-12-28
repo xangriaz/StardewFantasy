@@ -2,11 +2,15 @@
 
 
 ## Current Versions Includes:
-- Base Pack -
-- Harry Potter -
-- Final Fantasy -
-- Fairy Tales -
+Crops:
+- Kupo Nuts
 
+Recipes:
+- Chocolate Frog
+- Golden Egg
+
+Craftables:
+- Philosopher's Stone
 
 ------------------------------------
 
