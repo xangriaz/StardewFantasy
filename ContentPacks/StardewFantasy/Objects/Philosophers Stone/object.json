@@ -1,0 +1,30 @@
+{
+    "Name": "Philosopher's Stone",
+    "Description": "A legendary substance capable of turning objects into gold. Some believe it may even grant immortality.",
+    "Category": "Mineral",
+    "Price": 1800,
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": 535,
+                "Count": 1,
+            },
+            {
+                "Object": 536,
+                "Count": 1,
+            },
+            {
+                "Object": 537,
+                "Count": 1,
+            },
+            {
+                "Object": 749,
+                "Count": 1,
+            }
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Clint",
+        "PurchasePrice": 10000,
+    }
+}
