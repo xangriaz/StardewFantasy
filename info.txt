@@ -21,3 +21,7 @@ https://www.nexusmods.com/stardewvalley/mods/1720
 More Food - A Collection of Recipes
 Needed for the chocolate recipe
 https://www.nexusmods.com/stardewvalley/mods/1670
+
+Installation: 
+Place StardewFantasy into Mods/JsonAssets/ContentPacks
+

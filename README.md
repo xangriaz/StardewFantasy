@@ -1,7 +1,11 @@
 # Stardew Fantasy
 
+A collection of fantasy items, crops, and recipes.
+Based on items from various worlds including those
+of Final Fantasy, Harry Potter, and classic fairy tales. Created for use with Json Assets and Custom Farming.
 
-## Current Versions Includes:
+
+## Current Version:
 Crops:
 - Kupo Nuts
 
@@ -12,42 +16,52 @@ Recipes:
 Craftables:
 - Philosopher's Stone
 
+Requires:
+- [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
+- [More Food - A Collection of Recipes](https://www.nexusmods.com/stardewvalley/mods/1670)
+    - Needed for the chocolate recipe
+
 ------------------------------------
-
-Base Pack
----------
-**Used with all themes**
-
+## Future Ideas
 #### Crops
 - Wormwood
   - an extremely bitter herb, often used for brewing potions
+- Gillyweed
+    - ++ to fishing skill
+    - tt: Tastes slimy and rubbery, like octopus tentacles.
+- Devil's Snare
+- Echo Grass
+  - Used to brew echo drops
+- Magic Beans
+    - tt: Said to grow into a tall stalk
+
+#### Trees
+  - Cloud Mallow
 
 #### Recipes
+- Butterbeer
+- DRINK ME
+- EAT ME
+- Mad Tea
+- Porridge that is "just right"
 
+#### Craftables
+- Golden Snitch
+    - Decor
+- Bean Stalk (Decor)
+    - Uses magic beans
 
 #### Machines
 - Cauldron
   - Used to brew potions
+- Philosopher's Furnace
+    - Gold (varying amounts)
+        - Philosopher's Stone + any metal
+- Synthesizer
+  - Mythril Ingot
+  - Various types of Magicite
 
-Harry Potter
-------------
-**Look at potions & herbology wiki pages**
-
-#### Crops
-- Gillyweed
-  - ++ to fishing skill
-  - tt: Tastes slimy and rubbery, like octopus tentacles.
-- Devil's Snare
-
-#### Recipes
-- ~~Chocolate frog~~
-  - made from chocolate & snails
-    - tt: Did you really think this was made from frogs?
-- Butterbeer
-- Pumpkin Juice - check stardew wiki first
-
-#### Machines
-- From Cauldron
+#### Misc.
   - Polyjuice Potion
     - tt: Gives the appearance of someone else to those brave enough to face its taste.
     - Negative to health & energy
@@ -65,33 +79,6 @@ Harry Potter
   - Draught of Living Death
     - powerful sleeping potion
   - Skele-Gro  
-
-- Philosopher's Furnace
-  - Base: Creates Philosopher's Stone
-    - Ruby + Fire Quartz = Helvite
-  - Golden Egg
-    - Egg + Philosopher's Stone = Diamond
-  - Gold (varying amounts)
-    - Philosopher's Stone + any metal
-
-#### Craftables
-- Golden Snitch
-  - Decor
-
-Final Fantasy
----------------
-#### Crops
-- Echo Grass
-  - Used to brew echo drops
-- ~~Kupo Nuts~~
-
-#### Trees
-- Cloud Mallow
-
-#### Recipes
-
-#### Machines & Products
-- From Cauldron
   - X-Potion
   - X-Ether
   - Phoenix Down
@@ -103,33 +90,13 @@ Final Fantasy
   - Antidote
   - Remedy
   - Holy Water
-
-- Synthesizer
-  - Mythril Ingot
-  - Various types of Magicite
-
-Fairy Tales
--------------------
-#### Crops
-- Magic Beans
-  - Said to grow into a tall stalk
-
-#### Recipes
-- DRINK ME
-- EAT ME
-- Mad Tea
-- Porridge that is "just right"
-
-#### Machines
-- Using cauldron (?):
   - Pixie Dust - created with fairy stone
-  (1 color type for each skill based on Tinker Bell wiki)
+    - 1 color type for each skill based on Tinker Bell wiki
 
-#### Craftables
-- Bean Stalk (Decor)
-  - Uses magic beans
-
-##### Other Ideas
+##### Inspiration
+- Harry Potter
+- Final Fantasy
 - Narnia
 - Lovecraft
 - Dr. Seuss
+- Fairy Tales
