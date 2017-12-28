@@ -1,0 +1,23 @@
+Stardew Fantasy
+by Xangria
+
+A collection of fantasy items, crops, and recipes. 
+Based on items from various worlds including those 
+of Final Fantasy and Harry Potter. 
+
+Version 1.0 
+Crops:
+- Kupo Nuts
+Recipes:
+- Chocolate Frog
+- Golden Egg
+Craftables:
+- Philosopher's Stone
+
+Requires:
+Json Assets
+https://www.nexusmods.com/stardewvalley/mods/1720
+
+More Food - A Collection of Recipes
+Needed for the chocolate recipe
+https://www.nexusmods.com/stardewvalley/mods/1670
