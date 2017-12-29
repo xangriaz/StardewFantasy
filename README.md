@@ -21,6 +21,11 @@ Requires:
 - [More Food - A Collection of Recipes](https://www.nexusmods.com/stardewvalley/mods/1670)
     - Needed for the chocolate recipe
 
+## WIP:
+Recipes:
+- Green Eggs and Ham - requires Ham from [Fresh Meat](https://rd.nexusmods.com/stardewvalley/mods/1721)
+
+
 ------------------------------------
 ## Future Ideas
 #### Crops
