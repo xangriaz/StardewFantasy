@@ -1,0 +1,26 @@
+{
+    "Name": "Poisoned Apple",
+    "Description": "One bite will send you into a long slumber.",
+    "Category": "Cooking",
+    "Edibility": -15,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 745,
+    "IsColored": false,
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": 420,
+                "Count": 2,
+            },
+            {
+                "Object": 613,
+                "Count": 1,
+            }
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Gus",
+        "PurchasePrice": 1050,
+    }
+}

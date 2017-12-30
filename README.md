@@ -9,30 +9,37 @@ of Final Fantasy, Harry Potter, and classic fairy tales. Created for use with Js
 Crops:
 - Kupo Nuts
 
+Fruit Trees:
+- Bean Stalk
+
 Recipes:
 - Chocolate Frog
 - Golden Egg
+- Green Eggs and Ham
+- Porridge That is Just Right
+- Poisoned Apple
 
 Craftables:
 - Philosopher's Stone
+- Potted Bean Stalk
+- Autumn Potted Bean Stalk
+- Winter Potted Bean Stalk
 
 Requires:
 - [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
 - [More Food - A Collection of Recipes](https://www.nexusmods.com/stardewvalley/mods/1670)
     - Needed for the chocolate recipe
+- [Fresh Meat](https://rd.nexusmods.com/stardewvalley/mods/1721)
+    - Needed for Green Eggs and Ham
+
 
 ## WIP:
+
 Recipes:
-- Green Eggs and Ham - requires Ham from [Fresh Meat](https://rd.nexusmods.com/stardewvalley/mods/1721)
+- Everlasting Gobstopper
+- Three-course Meal Gum
 
-Fruit Trees:
-- Bean Stalk -> magic beans
-    - Eventually want to use these to replace green beans in Every Flavour Beans mod
 
-Decor:
--Potted Bean Stalk
--Autumn Potted Bean Stalk
--Winter Potted Bean Stalk
 ------------------------------------
 ## Future Ideas
 #### Crops
@@ -53,13 +60,10 @@ Decor:
 - DRINK ME
 - EAT ME
 - Mad Tea
-- Porridge that is "just right"
 
 #### Craftables
 - Golden Snitch
     - Decor
-- Bean Stalk (Decor)
-    - Uses magic beans
 
 #### Machines
 - Cauldron
@@ -110,3 +114,4 @@ Decor:
 - Lovecraft
 - Dr. Seuss
 - Fairy Tales
+- Willy Wonka
