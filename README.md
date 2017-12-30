@@ -25,6 +25,10 @@ Requires:
 Recipes:
 - Green Eggs and Ham - requires Ham from [Fresh Meat](https://rd.nexusmods.com/stardewvalley/mods/1721)
 
+Fruit Trees:
+- Bean Stalk -> magic beans
+    - Eventually want to use these to replace green beans in Every Flavour Beans mod
+
 
 ------------------------------------
 ## Future Ideas

@@ -1,0 +1,9 @@
+{
+  "Name": "Magic Bean",
+  "Description": "A flavorful nut enjoyed by the mythical moogle race.",
+  "Category": "Vegetable",
+  "Edibility": -20,
+  "Price": 200,
+  "IsColored": false,
+  "Recipe": null,
+}

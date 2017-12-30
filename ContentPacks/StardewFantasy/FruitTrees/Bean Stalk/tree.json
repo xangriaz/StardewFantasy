@@ -1,0 +1,11 @@
+{
+    "Name": "Bean Stalk",
+    "Product": "Magic Bean",
+    "SaplingName": "Bean Stalk Sapling",
+    "SaplingDescription": "While not truly a sapling, this pouch of magic beans may be destined for larger things. Be careful where you throw them. Check back in summer if you're curious.",
+
+    "Season": "summer",
+
+    "SaplingPurchasePrice": 2500,
+    "SaplingPurchaseRequirements": null,
+}
