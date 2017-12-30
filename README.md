@@ -37,7 +37,7 @@ Requires:
 
 Recipes:
 - Everlasting Gobstopper
-- Three-course Meal Gum
+- Three-course Meal Gum - requires Fresh Meat 
 
 
 ------------------------------------

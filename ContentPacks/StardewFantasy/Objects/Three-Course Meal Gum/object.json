@@ -1,0 +1,30 @@
+{
+    "Name": "Three-Course Meal Gum",
+    "Description": "Tastes of tomato soup, roast beef, baked potato, and blueberry pie.",
+    "Category": "Cooking",
+    "Edibility": -25,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Price": 1025,
+    "IsColored": false,
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+          {
+            "Object": 256,
+            "Count": 1,
+          },
+          {
+            "Object": "Beef",
+            "Count": 1,
+          },
+          {
+            "Object": 234,
+            "Count": 1,
+            }
+        ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Willy",
+    "PurchasePrice": 2800,
+    }
+}
