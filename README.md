@@ -53,7 +53,7 @@ Recipes:
   - Used to brew echo drops
 
 #### Trees
-  - Cloud Mallow
+  - Truffula Trees -> Silk
 
 #### Recipes
 - Butterbeer
