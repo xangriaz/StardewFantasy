@@ -37,7 +37,7 @@ Requires:
 
 Recipes:
 - Everlasting Gobstopper
-- Three-course Meal Gum - requires Fresh Meat 
+- Three-course Meal Gum - requires Fresh Meat
 
 
 ------------------------------------
@@ -106,6 +106,7 @@ Recipes:
   - Holy Water
   - Pixie Dust - created with fairy stone
     - 1 color type for each skill based on Tinker Bell wiki
+  - Fizzy Lifting Drink  
 
 ##### Inspiration
 - Harry Potter
