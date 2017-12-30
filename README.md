@@ -29,7 +29,10 @@ Fruit Trees:
 - Bean Stalk -> magic beans
     - Eventually want to use these to replace green beans in Every Flavour Beans mod
 
-
+Decor:
+-Potted Bean Stalk
+-Autumn Potted Bean Stalk
+-Winter Potted Bean Stalk
 ------------------------------------
 ## Future Ideas
 #### Crops
@@ -41,8 +44,6 @@ Fruit Trees:
 - Devil's Snare
 - Echo Grass
   - Used to brew echo drops
-- Magic Beans
-    - tt: Said to grow into a tall stalk
 
 #### Trees
   - Cloud Mallow

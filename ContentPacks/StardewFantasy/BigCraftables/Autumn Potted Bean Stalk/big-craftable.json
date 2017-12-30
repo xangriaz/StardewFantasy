@@ -1,0 +1,27 @@
+{
+    "Name": "Autumn Potted Bean Stalk",
+    "Description": "While it no longer produces beans, this stalk looks perfect in the fall.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": "Magic Bean",
+                "Count": 3,
+            },
+            {
+                "Object": 330,
+                "Count": 10,
+            },
+            {
+                "Object": 497,
+                "Count": 5,
+            }
+        ],
+        "isDefault": true,
+        "CanPurchase": true,
+        "PurchasePrice": 1000,
+        "PurchaseFrom": "Robin",
+    }
+}

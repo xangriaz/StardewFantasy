@@ -1,0 +1,27 @@
+{
+    "Name": "Winter Potted Bean Stalk",
+    "Description": "Contains only the magic of winter. Nothing more.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": "Magic Bean",
+                "Count": 3,
+            },
+            {
+                "Object": 330,
+                "Count": 10,
+            },
+            {
+                "Object": 498,
+                "Count": 5,
+            }
+        ],
+        "isDefault": true,
+        "CanPurchase": true,
+        "PurchasePrice": 1000,
+        "PurchaseFrom": "Robin",
+    }
+}

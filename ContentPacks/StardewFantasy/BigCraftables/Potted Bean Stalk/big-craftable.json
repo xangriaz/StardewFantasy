@@ -1,0 +1,24 @@
+{
+    "Name": "Potted Bean Stalk",
+    "Description": "It used to have magical properties, but now it's just a decoration.",
+    "Category": "crafting",
+    "Price": 1,
+    "ProvidesLight": false,
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": "Magic Bean",
+                "Count": 3,
+            },
+            {
+                "Object": 330,
+                "Count": 10,
+            },
+        ],
+        "isDefault": true,
+        "CanPurchase": true,
+        "PurchasePrice": 1000,
+        "PurchaseFrom": "Robin",
+    }
+}
