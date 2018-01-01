@@ -35,9 +35,27 @@ Requires:
 
 ## WIP:
 
+Crops:
+- 1-Up Mushroom
+    - gives +1 to all skills
+- Fire Flower
+    - gives +4 to combat
+- Super Mushroom
+    - +2 combat
+    - +2 defense
+
+Craftables:     
+- Super Star
+    - +10 defense for 500
+    - created from Philosopher's Stone & Super Mushroom
+- Cape Feather
+    - +5 speed for 500
+    - Duck feather + Magic Bean
+
 Recipes:
 - Everlasting Gobstopper
 - Three-course Meal Gum - requires Fresh Meat
+
 
 
 ------------------------------------
@@ -116,3 +134,4 @@ Recipes:
 - Dr. Seuss
 - Fairy Tales
 - Willy Wonka
+- Mario
