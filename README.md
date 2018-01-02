@@ -8,6 +8,8 @@ of Final Fantasy, Harry Potter, and classic fairy tales. Created for use with Js
 ## Current Version:
 Crops:
 - Kupo Nuts
+- 1-Up Mushroom
+- Super Mushroom
 
 Fruit Trees:
 - Bean Stalk
@@ -18,6 +20,10 @@ Recipes:
 - Green Eggs and Ham
 - Porridge That is Just Right
 - Poisoned Apple
+- Super Star
+- Cape Feather
+- Everlasting Gobstopper
+- Three-course Meal Gum
 
 Craftables:
 - Philosopher's Stone
@@ -30,30 +36,10 @@ Requires:
 - [More Food - A Collection of Recipes](https://www.nexusmods.com/stardewvalley/mods/1670)
     - Needed for the chocolate recipe
 - [Fresh Meat](https://rd.nexusmods.com/stardewvalley/mods/1721)
-    - Needed for Green Eggs and Ham
+    - Needed for Green Eggs and Ham, Three Course Meal Gum
 
 
 ## WIP:
-
-Crops:
-- 1-Up Mushroom
-    - gives +1 to all skills
-- Super Mushroom
-    - +2 combat
-    - +2 defense
-
-Craftables:     
-- Super Star
-    - +10 defense for 500
-    - created from Philosopher's Stone & Super Mushroom
-- Cape Feather
-    - +5 speed for 500
-    - Duck feather + Magic Bean
-
-Recipes:
-- Everlasting Gobstopper
-- Three-course Meal Gum - requires Fresh Meat
-
 
 ------------------------------------
 ## Future Ideas
