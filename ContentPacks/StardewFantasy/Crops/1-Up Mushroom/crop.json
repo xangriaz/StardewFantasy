@@ -2,8 +2,8 @@
     "Name": "1-Up Mushroom",
     "Product": "1-Up Mushroom",
     "SeedName": "1-Up Mushroom Seeds",
-    "SeedDescription": "Place box outside during spring. 1-Up Mushrooms mature in only 7 days and produce more every 3 days.",
-    "Type": "Vegetable",
+    "SeedDescription": "Used to grow powerful 1-Up Mushrooms. Takes 7 days to mature and produces more every 3 days.",
+    "Type": "Cooking",
     "Seasons": ["spring"],
     "Phases": [ 1, 1,1,1,1,1,1],
     "RegrowthPhase": 3,
@@ -16,5 +16,5 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.3,
     },
-    "SeedPurchasePrice": 250,
+    "SeedPurchasePrice": 680,
 }

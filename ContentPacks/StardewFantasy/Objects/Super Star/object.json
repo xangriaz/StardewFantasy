@@ -1,13 +1,15 @@
 {
     "Name": "Super Star",
     "Description": "Grants a temporary feeling of invincibility.",
-    "Category": "ArtisanGoods",
+    "Category": "Cooking",
     "Edibility": 35,
+    "EdibleIsDrink": false,
     "EdibleBuffs": {
         "Defense": 10,
         "Duration": 400,
     },
     "Price": 1875,
+    "IsColored": false,
     "Recipe": {
         "ResultCount": 1,
         "Ingredients": [
@@ -21,7 +23,7 @@
             },
         ],
         "CanPurchase": true,
-        "PurchaseFrom": "Harvey",
+        "PurchaseFrom": "Gus",
         "PurchasePrice": 3000,
     }
 }

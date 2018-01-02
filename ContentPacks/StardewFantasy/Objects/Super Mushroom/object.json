@@ -1,8 +1,9 @@
 {
   "Name": "Super Mushroom",
-  "Description": "Provides extra power after eating.",
-  "Category": "Vegetable",
+  "Description": "A common, yet powerful mushroom.",
+  "Category": "Cooking",
   "Edibility": 25,
+  "EdibleIsDrink": false,
   "EdibleBuffs": {
       "Attack": 2,
       "Defense": 2,

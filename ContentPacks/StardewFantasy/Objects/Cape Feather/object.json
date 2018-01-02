@@ -1,13 +1,15 @@
 {
     "Name": "Cape Feather",
     "Description": "Grants a speed so fast, you feel like you're flying.",
-    "Category": "ArtisanGoods",
+    "Category": "Cooking",
     "Edibility": 15,
+    "EdibleIsDrink": false,
     "EdibleBuffs": {
         "Speed": 6,
         "Duration": 220,
     },
     "Price": 650,
+    "IsColored": false,
     "Recipe": {
         "ResultCount": 1,
         "Ingredients": [
@@ -16,12 +18,12 @@
                 "Count": 1,
             },
             {
-                "Object": "444",
+                "Object": 444,
                 "Count": 1,
             },
         ],
         "CanPurchase": true,
-        "PurchaseFrom": "Harvey",
+        "PurchaseFrom": "Gus",
         "PurchasePrice": 2950,
     }
 }

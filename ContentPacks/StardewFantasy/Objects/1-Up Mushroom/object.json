@@ -1,8 +1,9 @@
 {
   "Name": "1-Up Mushroom",
-  "Description": "Gives 1-up to all stats for a limited time.",
-  "Category": "Vegetable",
-  "Edibility": 20,
+  "Description": "Gives a 1-up boost to all stats for a limited time.",
+  "Category": "Cooking",
+  "Edibility": 1,
+  "EdibleIsDrink": false,
   "EdibleBuffs": {
       "Farming": 1,
       "Fishing": 1,

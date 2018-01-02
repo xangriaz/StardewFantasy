@@ -2,8 +2,8 @@
     "Name": "Super Mushroom",
     "Product": "Super Mushroom",
     "SeedName": "Super Mushroom Seeds",
-    "SeedDescription": "Place box outside during summer. Super Mushrooms mature in only 7 days and produce more every 3 days.",
-    "Type": "Vegetable",
+    "SeedDescription": "Grown only in summer, these mushrooms provide useful buffs year-round. Takes 7 days to mature and produces more every 3 days.",
+    "Type": "Cooking",
     "Seasons": ["summer"],
     "Phases": [ 1, 1,1,1,1,1,1],
     "RegrowthPhase": 3,
@@ -16,5 +16,5 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.4,
     },
-    "SeedPurchasePrice": 175,
+    "SeedPurchasePrice": 550,
 }
