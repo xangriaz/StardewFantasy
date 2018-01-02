@@ -1,0 +1,27 @@
+{
+    "Name": "Super Star",
+    "Description": "Grants a temporary feeling of invincibility.",
+    "Category": "ArtisanGoods",
+    "Edibility": 35,
+    "EdibleBuffs": {
+        "Defense": 10,
+        "Duration": 400,
+    },
+    "Price": 1875,
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": "Super Mushroom",
+                "Count": 1,
+            },
+            {
+                "Object": "Philosopher's Stone",
+                "Count": 1,
+            },
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Harvey",
+        "PurchasePrice": 3000,
+    }
+}

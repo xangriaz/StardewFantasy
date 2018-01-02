@@ -38,8 +38,6 @@ Requires:
 Crops:
 - 1-Up Mushroom
     - gives +1 to all skills
-- Fire Flower
-    - gives +4 to combat
 - Super Mushroom
     - +2 combat
     - +2 defense
@@ -57,7 +55,6 @@ Recipes:
 - Three-course Meal Gum - requires Fresh Meat
 
 
-
 ------------------------------------
 ## Future Ideas
 #### Crops
@@ -69,6 +66,8 @@ Recipes:
 - Devil's Snare
 - Echo Grass
   - Used to brew echo drops
+- Fire Flower
+  - gives +4 to combat
 
 #### Trees
   - Truffula Trees -> Silk

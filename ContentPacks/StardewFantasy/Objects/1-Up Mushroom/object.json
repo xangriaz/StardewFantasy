@@ -1,0 +1,22 @@
+{
+  "Name": "1-Up Mushroom",
+  "Description": "Gives 1-up to all stats for a limited time.",
+  "Category": "Vegetable",
+  "Edibility": 20,
+  "EdibleBuffs": {
+      "Farming": 1,
+      "Fishing": 1,
+      "Mining": 1,
+      "Foraging": 1,
+      "Attack": 1,
+      "Defense": 1,
+      "Luck": 1,
+      "MaxStamina": 1,
+      "Speed": 1,
+      "MagnetRadius": 1,
+      "Duration": 300
+  },
+  "Price": 50,
+  "IsColored": false,
+  "Recipe": null,
+}

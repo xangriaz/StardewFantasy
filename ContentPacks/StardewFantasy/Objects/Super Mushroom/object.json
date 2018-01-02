@@ -1,0 +1,14 @@
+{
+  "Name": "Super Mushroom",
+  "Description": "Provides extra power after eating.",
+  "Category": "Vegetable",
+  "Edibility": 25,
+  "EdibleBuffs": {
+      "Attack": 2,
+      "Defense": 2,
+      "Duration": 300
+  },
+  "Price": 50,
+  "IsColored": false,
+  "Recipe": null,
+}

@@ -1,0 +1,27 @@
+{
+    "Name": "Cape Feather",
+    "Description": "Grants a speed so fast, you feel like you're flying.",
+    "Category": "ArtisanGoods",
+    "Edibility": 15,
+    "EdibleBuffs": {
+        "Speed": 6,
+        "Duration": 220,
+    },
+    "Price": 650,
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": "Magic Bean",
+                "Count": 1,
+            },
+            {
+                "Object": "444",
+                "Count": 1,
+            },
+        ],
+        "CanPurchase": true,
+        "PurchaseFrom": "Harvey",
+        "PurchasePrice": 2950,
+    }
+}
