@@ -41,6 +41,11 @@ Requires:
 
 ## WIP:
 
+Crops: 
+- Miracle Fruit
+- Mysterious Fruit
+- Goddess Fruit
+
 ------------------------------------
 ## Future Ideas
 #### Crops
@@ -114,9 +119,12 @@ Requires:
 ##### Inspiration
 - Harry Potter
 - Final Fantasy
-- Narnia
-- Lovecraft
+- Narnia*
+- Lovecraft*
 - Dr. Seuss
 - Fairy Tales
 - Willy Wonka
 - Mario
+- Digimon* 
+
+*Not yet included 
